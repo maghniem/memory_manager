@@ -113,7 +113,7 @@ The program was run with the command:
 ./myProject addresses.txt > output.txt
 ```
 
-The complete output is redirected into a text file which is included in the zip file submission. The first
+The complete output is redirected into a text file. The first
 10 lines are as follows:
 ```BASH
 $ head -10 output.txt
