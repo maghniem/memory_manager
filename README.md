@@ -1,5 +1,7 @@
 # memory_manager
 
+![Alt text](https://github.com/maghniem/memory_manager/blob/master/tlb.png "TLB Lookup Figure")
+
 Objectives:
 
 Read a text file containing 32-bit integer values representing logical addresses.
